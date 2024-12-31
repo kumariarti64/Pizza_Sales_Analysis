@@ -15,7 +15,7 @@ This project analyzes pizza sales data to uncover valuable insights and trends u
 By leveraging Excel for quick data visualization and SQL for efficient querying, this analysis provides a comprehensive understanding of sales metrics, order patterns, and seasonal trends.
 
 ## Data Soures Overview
-The primary dataset used for this analysis is the "Pizza_Sales.csv" file containing detail information about each sales made by the pizza restaurant chain. The project uses simulated pizza sales data, organized into multiple CSV files. The key datasets include:
+The primary dataset used for this analysis is the "Pizza_Sales" file containing detail information about each sales made by the pizza restaurant chain. The key datasets include:
 
 Orders Data: Contains order IDs, dates, and customer details.
 Order Details Data: Provides specifics about the pizzas ordered, including quantity and type.
