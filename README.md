@@ -17,11 +17,11 @@ By leveraging Excel for quick data visualization and SQL for efficient querying,
 ## Data Soures Overview
 The primary dataset used for this analysis is the "Pizza_Sales" file containing detail information about each sales made by the pizza restaurant chain. The key datasets include:
 
-Orders Data: Contains order IDs, dates, and customer details.
-Order Details Data: Provides specifics about the pizzas ordered, including quantity and type.
-Pizzas Data: Includes pizza menu details such as name, size, and category.
-Pizza Types Data: Describes pizza varieties and their ingredients.
-Date Information: Offers details about weekdays, holidays, and other calendar-based insights.
+- Orders Data: Contains order IDs, dates, and customer details.
+- Order Details Data: Provides specifics about the pizzas ordered, including quantity and type.
+- Pizzas Data: Includes pizza menu details such as name, size, and category.
+- Pizza Types Data: Describes pizza varieties and their ingredients.
+- Date Information: Offers details about weekdays, holidays, and other calendar-based insights.
 
 ## Tools
 ### SQL
